@@ -21,7 +21,6 @@ This project focuses on predicting house prices using a Linear Regression model.
 - [Conclusion](#conclusion)
 - [How to Run](#how-to-run)
 - [Dependencies](#dependencies)
-- [License](#license)
 
 ## Introduction
 
