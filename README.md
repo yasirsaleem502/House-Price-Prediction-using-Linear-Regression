@@ -98,7 +98,7 @@ To run the project:
 3. Open the Jupyter Notebook and run the cells to train and evaluate the model.
 
 ```bash
-git clone https://github.com/yourusername/House-Price-Prediction.git
+git clone https://github.com/yasirsaleem502/House-Price-Prediction-using-Linear-Regression.git
 cd House-Price-Prediction
 pip install -r requirements.txt
 jupyter notebook
