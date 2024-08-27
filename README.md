@@ -29,7 +29,7 @@ House prices are a significant economic factor and are influenced by various fac
 
 ## Dataset Description
 
-we'll be using the Boston Housing dataset. There are 506 rows in the dataset. The target variable is the median home price. There are 13 predictor variables including an average number of rooms per dwelling, crime rate by town, etc. More information about this dataset can be found at https://www.kaggle.com/c/boston-housing
+we'll be using the Boston Housing dataset. There are 506 rows in the dataset. The target variable is the median home price. There are 13 predictor variables including an average number of rooms per dwelling, crime rate by town, etc. More information about this dataset can be found at  https://www.kaggle.com/datasets/muhammadyasirsaleem/boston-house-price/data
 
 This data frame contains the following columns:
 
